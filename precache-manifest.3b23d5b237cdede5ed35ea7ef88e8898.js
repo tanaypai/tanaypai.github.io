@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9a13618980f932fbbac9b26bd5222e4f",
+    "revision": "e558d935c627ce3f036f896e7f8ed10e",
     "url": "./index.html"
   },
   {
-    "revision": "3a5507b52808c3ff71f6",
+    "revision": "683c93b524a69f27b026",
     "url": "./static/css/main.c9e8a96f.chunk.css"
   },
   {
-    "revision": "c8d16ea62ff81f691356",
-    "url": "./static/js/2.21654fa4.chunk.js"
+    "revision": "bdc3f3a81d17c8548c86",
+    "url": "./static/js/2.3bd2f121.chunk.js"
   },
   {
-    "revision": "3a5507b52808c3ff71f6",
-    "url": "./static/js/main.df81d778.chunk.js"
+    "revision": "683c93b524a69f27b026",
+    "url": "./static/js/main.d5fda2e9.chunk.js"
   },
   {
     "revision": "1a27038c5115d044f6f9",
@@ -252,6 +252,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/pwa.71408db7.png"
   },
   {
+    "revision": "a18cf271c58dd09e7abc226c5b22e934",
+    "url": "./static/media/rotaract_logo.a18cf271.jpeg"
+  },
+  {
     "revision": "2c497738be3831492aeb6bdc43f19154",
     "url": "./static/media/stanford_logo.2c497738.png"
   },
@@ -264,8 +268,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/talksCardBackAlt.42b964bc.svg"
   },
   {
-    "revision": "09cdcc2d9814a4f249202c850e1c49a7",
-    "url": "./static/media/tanay_avi.09cdcc2d.png"
+    "revision": "a871757906bd2e0126dc064a0a89a9d5",
+    "url": "./static/media/tanay_avi.a8717579.png"
   },
   {
     "revision": "0993e3246bf5146154391a0afef79b03",
