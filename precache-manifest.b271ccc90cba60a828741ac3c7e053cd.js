@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9b7b72fb42b18e5a33d13d3558e25d52",
+    "revision": "97de56ce33beb556d4447fcad3099b6c",
     "url": "./index.html"
   },
   {
-    "revision": "fc76609afc1b29130342",
-    "url": "./static/css/main.5f984780.chunk.css"
+    "revision": "b6527d5240e4fb82b87a",
+    "url": "./static/css/main.4c0dc009.chunk.css"
   },
   {
-    "revision": "bdc3f3a81d17c8548c86",
-    "url": "./static/js/2.3bd2f121.chunk.js"
+    "revision": "86a166d8079304b9be31",
+    "url": "./static/js/2.55245f45.chunk.js"
   },
   {
-    "revision": "fc76609afc1b29130342",
-    "url": "./static/js/main.c1511599.chunk.js"
+    "revision": "b6527d5240e4fb82b87a",
+    "url": "./static/js/main.b5afe908.chunk.js"
   },
   {
     "revision": "1a27038c5115d044f6f9",
@@ -76,6 +76,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/codeInLogo.fee92c18.png"
   },
   {
+    "revision": "ddd0471aa0b3f0d505f0eb10a058a4be",
+    "url": "./static/media/codesprouts_logo.ddd0471a.png"
+  },
+  {
     "revision": "5f915405511f649dad433a6db9adbff4",
     "url": "./static/media/contactMail.5f915405.png"
   },
@@ -90,6 +94,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "75a7107b7739a46950f66de29779eb52",
     "url": "./static/media/deeplearning_ai_logo.75a7107b.png"
+  },
+  {
+    "revision": "952752a968c4a2830b727293c6f37e4c",
+    "url": "./static/media/dell_logo.952752a9.png"
   },
   {
     "revision": "ee456985bc9ef34b81eea0dfbc2ed00e",
@@ -192,10 +200,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/googleAssistant.da889ab0.svg"
   },
   {
-    "revision": "a12126cfd4356c0a5b6261b87bf92059",
-    "url": "./static/media/honeywell_logo.a12126cf.png"
-  },
-  {
     "revision": "d3fccbe1db76b96f4f320d9c0f7da30c",
     "url": "./static/media/ibm_logo.d3fccbe1.png"
   },
@@ -206,6 +210,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "29152cf756a1facead5393c32e373371",
     "url": "./static/media/intel_logo.29152cf7.jpg"
+  },
+  {
+    "revision": "50583995c3aa60e9dd29e50e45dc5f5e",
+    "url": "./static/media/issc_logo.50583995.jpg"
   },
   {
     "revision": "7a43f702448241d9d868573928d1aa63",
