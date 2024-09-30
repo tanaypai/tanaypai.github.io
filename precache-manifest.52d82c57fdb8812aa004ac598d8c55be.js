@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "88a73cf1b64a78345cc8b8d0285727fd",
+    "revision": "9460f49ac6cf1abb83a0be3ab8b8369b",
     "url": "./index.html"
   },
   {
-    "revision": "4283888fb1137d7ded06",
+    "revision": "347498658ab0d6ad48ab",
     "url": "./static/css/main.4c0dc009.chunk.css"
   },
   {
-    "revision": "86a166d8079304b9be31",
-    "url": "./static/js/2.55245f45.chunk.js"
+    "revision": "62e8bf5d37ee568d6caa",
+    "url": "./static/js/2.b11e65db.chunk.js"
   },
   {
-    "revision": "4283888fb1137d7ded06",
-    "url": "./static/js/main.aaa1341c.chunk.js"
+    "revision": "347498658ab0d6ad48ab",
+    "url": "./static/js/main.d957d825.chunk.js"
   },
   {
     "revision": "1a27038c5115d044f6f9",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "./static/media/Agustina.21f233e1.woff"
+  },
+  {
+    "revision": "a01a28dfa2c2065fb7a12f0d595e8b70",
+    "url": "./static/media/FSE_logo.a01a28df.jpeg"
   },
   {
     "revision": "4457817ac2b9993c65e81aa05828fe9c",
